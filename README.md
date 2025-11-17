@@ -1,4 +1,4 @@
-# SOJVP – News Clustering & Topic Tagging
+# News Clustering & Topic Tagging
 
 โครงการนี้เป็นระบบวิเคราะห์ข่าวด้วย Machine Learning โดยใช้ **BERTopic**,  
 **Sentence-Transformers**, และ **Clustering** เพื่อจัดกลุ่มข่าว, สร้าง Tag อัตโนมัติ และทำ Visualization ภายใน Jupyter Notebook
